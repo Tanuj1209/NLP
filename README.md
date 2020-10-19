@@ -1,4 +1,5 @@
-#Language Classification Task
+# NLP
+Language Classification Task
 
 The task consists of a classification task where you are given English sentence and you needto make a classifier that tries to predict whether this sentence is an original English text or a(human) translation from French into English.
 
